@@ -1,0 +1,110 @@
+---
+object: card
+id: 297446a8-b8f2-49f5-8dc8-43ff138a89bd
+oracle_id: 21f1c6d7-8289-44b2-b88f-c09e202be200
+multiverse_ids:
+- 430603
+tcgplayer_id: 132331
+cardmarket_id: 298383
+name: Fertilid
+lang: en
+released_at: '2017-06-16'
+uri: https://api.scryfall.com/cards/297446a8-b8f2-49f5-8dc8-43ff138a89bd
+scryfall_uri: https://scryfall.com/card/e01/64/fertilid?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/9/297446a8-b8f2-49f5-8dc8-43ff138a89bd.jpg?1592765798
+  normal: https://cards.scryfall.io/normal/front/2/9/297446a8-b8f2-49f5-8dc8-43ff138a89bd.jpg?1592765798
+  large: https://cards.scryfall.io/large/front/2/9/297446a8-b8f2-49f5-8dc8-43ff138a89bd.jpg?1592765798
+  png: https://cards.scryfall.io/png/front/2/9/297446a8-b8f2-49f5-8dc8-43ff138a89bd.png?1592765798
+  art_crop: https://cards.scryfall.io/art_crop/front/2/9/297446a8-b8f2-49f5-8dc8-43ff138a89bd.jpg?1592765798
+  border_crop: https://cards.scryfall.io/border_crop/front/2/9/297446a8-b8f2-49f5-8dc8-43ff138a89bd.jpg?1592765798
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Creature — Elemental
+oracle_text: |-
+  Fertilid enters the battlefield with two +1/+1 counters on it.
+  {1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
+power: '0'
+toughness: '0'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: bf058cce-027d-4784-85e7-2750533a11df
+set: e01
+set_name: 'Archenemy: Nicol Bolas'
+set_type: archenemy
+set_uri: https://api.scryfall.com/sets/bf058cce-027d-4784-85e7-2750533a11df
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ae01&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/e01?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/297446a8-b8f2-49f5-8dc8-43ff138a89bd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A21f1c6d7-8289-44b2-b88f-c09e202be200&unique=prints
+collector_number: '64'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wayne Reynolds
+artist_ids:
+- afc47cec-3ccc-404e-a8c6-4d83dd504271
+illustration_id: 455d3e58-180a-44f5-b8ca-eb5cc858251a
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 982
+penny_rank: 10761
+prices:
+  usd: '0.09'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430603
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fertilid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fertilid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Fertilid
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/132331?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fertilid&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fertilid&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

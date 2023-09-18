@@ -1,0 +1,110 @@
+---
+object: card
+id: 90555557-995e-4c1f-9680-4cad891b07a7
+oracle_id: e1a776d2-fb3a-4215-a14e-4b6e9bda95df
+multiverse_ids:
+- 430605
+tcgplayer_id: 132342
+cardmarket_id: 298385
+name: Hunter's Prowess
+lang: en
+released_at: '2017-06-16'
+uri: https://api.scryfall.com/cards/90555557-995e-4c1f-9680-4cad891b07a7
+scryfall_uri: https://scryfall.com/card/e01/66/hunters-prowess?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/0/90555557-995e-4c1f-9680-4cad891b07a7.jpg?1592765812
+  normal: https://cards.scryfall.io/normal/front/9/0/90555557-995e-4c1f-9680-4cad891b07a7.jpg?1592765812
+  large: https://cards.scryfall.io/large/front/9/0/90555557-995e-4c1f-9680-4cad891b07a7.jpg?1592765812
+  png: https://cards.scryfall.io/png/front/9/0/90555557-995e-4c1f-9680-4cad891b07a7.png?1592765812
+  art_crop: https://cards.scryfall.io/art_crop/front/9/0/90555557-995e-4c1f-9680-4cad891b07a7.jpg?1592765812
+  border_crop: https://cards.scryfall.io/border_crop/front/9/0/90555557-995e-4c1f-9680-4cad891b07a7.jpg?1592765812
+mana_cost: "{4}{G}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: Until end of turn, target creature gets +3/+3 and gains trample and "Whenever
+  this creature deals combat damage to a player, draw that many cards."
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: bf058cce-027d-4784-85e7-2750533a11df
+set: e01
+set_name: 'Archenemy: Nicol Bolas'
+set_type: archenemy
+set_uri: https://api.scryfall.com/sets/bf058cce-027d-4784-85e7-2750533a11df
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ae01&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/e01?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/90555557-995e-4c1f-9680-4cad891b07a7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae1a776d2-fb3a-4215-a14e-4b6e9bda95df&unique=prints
+collector_number: '66'
+digital: false
+rarity: rare
+flavor_text: To be counted among the warriors of Setessa's Leina Tower, you must not
+  fear death, only failure.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: 6437b9de-04c0-48b1-9cd6-8600dfec7b28
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 4037
+penny_rank: 11729
+prices:
+  usd: '0.27'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.13'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430605
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hunter%27s+Prowess&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hunter%27s+Prowess&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hunter%27s+Prowess
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/132342?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hunter%27s+Prowess&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hunter%27s+Prowess&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

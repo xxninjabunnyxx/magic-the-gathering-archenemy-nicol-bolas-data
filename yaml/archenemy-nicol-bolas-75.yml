@@ -1,0 +1,127 @@
+---
+object: card
+id: ea5baac6-a27c-4899-82cf-591061d0f308
+oracle_id: 0dd0e91a-d16b-4718-8d11-1a3fcf8e0753
+multiverse_ids:
+- 430614
+tcgplayer_id: 132338
+cardmarket_id: 298393
+name: Thragtusk
+lang: en
+released_at: '2017-06-16'
+uri: https://api.scryfall.com/cards/ea5baac6-a27c-4899-82cf-591061d0f308
+scryfall_uri: https://scryfall.com/card/e01/75/thragtusk?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/a/ea5baac6-a27c-4899-82cf-591061d0f308.jpg?1592765882
+  normal: https://cards.scryfall.io/normal/front/e/a/ea5baac6-a27c-4899-82cf-591061d0f308.jpg?1592765882
+  large: https://cards.scryfall.io/large/front/e/a/ea5baac6-a27c-4899-82cf-591061d0f308.jpg?1592765882
+  png: https://cards.scryfall.io/png/front/e/a/ea5baac6-a27c-4899-82cf-591061d0f308.png?1592765882
+  art_crop: https://cards.scryfall.io/art_crop/front/e/a/ea5baac6-a27c-4899-82cf-591061d0f308.jpg?1592765882
+  border_crop: https://cards.scryfall.io/border_crop/front/e/a/ea5baac6-a27c-4899-82cf-591061d0f308.jpg?1592765882
+mana_cost: "{4}{G}"
+cmc: 5.0
+type_line: Creature — Beast
+oracle_text: |-
+  When Thragtusk enters the battlefield, you gain 5 life.
+  When Thragtusk leaves the battlefield, create a 3/3 green Beast creature token.
+power: '5'
+toughness: '3'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: ea5baac6-a27c-4899-82cf-591061d0f308
+  component: combo_piece
+  name: Thragtusk
+  type_line: Creature — Beast
+  uri: https://api.scryfall.com/cards/ea5baac6-a27c-4899-82cf-591061d0f308
+- object: related_card
+  id: c5ca0ca5-421c-41d9-a797-3c8443d253ae
+  component: token
+  name: Beast
+  type_line: Token Creature — Beast
+  uri: https://api.scryfall.com/cards/c5ca0ca5-421c-41d9-a797-3c8443d253ae
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: bf058cce-027d-4784-85e7-2750533a11df
+set: e01
+set_name: 'Archenemy: Nicol Bolas'
+set_type: archenemy
+set_uri: https://api.scryfall.com/sets/bf058cce-027d-4784-85e7-2750533a11df
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ae01&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/e01?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ea5baac6-a27c-4899-82cf-591061d0f308/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0dd0e91a-d16b-4718-8d11-1a3fcf8e0753&unique=prints
+collector_number: '75'
+digital: false
+rarity: rare
+flavor_text: |-
+  "Always carry two spears."
+  —Mokgar, Kalonian hunter
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Nils Hamm
+artist_ids:
+- c540d1fc-1500-457f-93cf-d6069ee66546
+illustration_id: b2db5e72-3c35-4ca4-9ee2-ec56e6425569
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 3334
+penny_rank: 229
+prices:
+  usd: '0.15'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.14'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Thragtusk&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Thragtusk&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Thragtusk
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/132338?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Thragtusk&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Thragtusk&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
